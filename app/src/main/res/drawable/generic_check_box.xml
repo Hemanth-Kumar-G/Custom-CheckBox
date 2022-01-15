@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/checked"
+        android:drawable="@drawable/generic_check_box_on_20"
+        android:state_checked="true"
+        android:state_enabled="true" />
+
+    <item
+        android:id="@+id/unchecked"
+        android:drawable="@drawable/generic_check_box_off_20"
+        android:state_enabled="true" />
+
+    <item
+        android:drawable="@drawable/generic_disable_check_box_on_24"
+        android:state_checked="true"
+        android:state_enabled="false" />
+
+    <item
+        android:drawable="@drawable/generic_disable_check_box_off_24"
+        android:state_enabled="false" />
+
+    <transition
+        android:drawable="@drawable/generic_anim_vector_uncheck_to_check"
+        android:fromId="@id/unchecked"
+        android:toId="@id/checked" />
+
+    <transition
+        android:drawable="@drawable/generic_anim_vector_check_to_uncheck"
+        android:fromId="@+id/checked"
+        android:toId="@+id/unchecked" />
+
+</animated-selector>

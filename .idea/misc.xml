@@ -7,9 +7,16 @@
         <entry key="app/src/main/res/drawable-v24/ic_checkbox_off.xml" value="0.17552083333333332" />
         <entry key="app/src/main/res/drawable-v24/toggle.xml" value="0.17552083333333332" />
         <entry key="app/src/main/res/drawable/check_to_uncheck.xml" value="0.24722222222222223" />
+        <entry key="app/src/main/res/drawable/generic_anim_vector_check_to_uncheck.xml" value="0.1328125" />
+        <entry key="app/src/main/res/drawable/generic_check_box.xml" value="0.1328125" />
+        <entry key="app/src/main/res/drawable/generic_check_box_on_20.xml" value="0.26851851851851855" />
+        <entry key="app/src/main/res/drawable/generic_disable_check_box_off_24.xml" value="0.14722222222222223" />
+        <entry key="app/src/main/res/drawable/generic_disable_check_box_on_24.xml" value="0.14722222222222223" />
+        <entry key="app/src/main/res/drawable/ic_check_box_on_24.xml" value="0.14722222222222223" />
         <entry key="app/src/main/res/drawable/ic_checkbox_off.xml" value="0.13541666666666666" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.13541666666666666" />
         <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.13541666666666666" />
+        <entry key="app/src/main/res/drawable/toggle.xml" value="0.14722222222222223" />
         <entry key="app/src/main/res/drawable/uncheck_to_check.xml" value="0.13541666666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2838541666666667" />
       </map>
